@@ -54,3 +54,7 @@ mostrarResultado()
 ```
 
 
+-Output: 
+
+![](img/demo.png)
+
